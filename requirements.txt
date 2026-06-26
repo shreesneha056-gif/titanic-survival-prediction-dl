@@ -1,3 +1,6 @@
+tensorflow
+keras
+torch
 pandas
 numpy
 matplotlib
@@ -5,6 +8,3 @@ seaborn
 scikit-learn
 jupyter
 ipykernel
-torch
-tensorflow
-keras
